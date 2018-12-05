@@ -1,2 +1,0 @@
-# openvpn
-autu-script
